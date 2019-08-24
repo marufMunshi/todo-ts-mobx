@@ -1,0 +1,39 @@
+{
+  "name": "todo-ts-mobx",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "mobx": "^5.8.0",
+    "mobx-react": "^5.4.3",
+    "mobx-state-tree": "^3.10.0",
+    "react": "^16.7.0",
+    "react-dnd": "^9.3.4",
+    "react-dnd-html5-backend": "^9.3.4",
+    "react-dom": "^16.7.0",
+    "react-scripts-ts": "3.1.0",
+    "react-sortable-hoc": "^1.10.1",
+    "recompose": "^0.30.0",
+    "tachyons": "4.10.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "@types/lodash": "^4.14.121",
+    "@types/node": "^10.12.18",
+    "@types/react": "^16.7.20",
+    "@types/react-dom": "^16.0.11",
+    "@types/react-sortable-hoc": "^0.6.5",
+    "@types/recompose": "^0.30.3",
+    "@types/uuid": "^3.4.4",
+    "mst-middlewares": "^3.10.2",
+    "remotedev": "^0.2.9",
+    "typescript": "^3.2.4"
+  }
+}
